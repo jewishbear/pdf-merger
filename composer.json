@@ -3,7 +3,7 @@
     "description": "PDF File Merger for PHP5",
     "require": {
         "setasign/fpdi": "*",
-        "setasign/fpdf": "*",
+        "setasign/fpdf": "*"
     },
     "authors": [
         {
